@@ -1,5 +1,5 @@
 # Learn from Vibe Coding
-当你vibecoding时，你在coding什么。
+## 当你vibecoding时，你在coding什么。
 
 AI 帮你写完代码后，花几分钟弄懂它。`learn` 是一个用于 Codex 和 Claude Code 的轻量 Skill：从当前编程会话、Git 改动、指定代码或技术主题中提炼值得理解的机制，用代码证据讲解，逐题检查理解，并在项目内留下少量可复习的错题和知识点。
 

@@ -1,0 +1,6 @@
+.learning/
+__pycache__/
+*.py[cod]
+VALIDATION.md
+HUMAN_EVALUATION_PLAN.md
+OPTIMIZATION_PLAN.md

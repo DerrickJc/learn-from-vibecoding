@@ -1,5 +1,4 @@
-# Learn from Vibe Coding — v0.1 规格草案
-
+# Learn from Vibe Coding — v0.1 
 ## 目标
 
 让开发者从刚完成的 AI 编程、代码变更或指定材料中学到可验证的知识。一次使用应能快速说明关键机制、检查理解，并留下少量可复习的错题和知识点。Skill 依附于现有 Coding Agent 运行，不自建模型调用或服务。
@@ -41,6 +40,3 @@ Skill 运行时可根据较大的当前改动提醒用户检查**本次改动**�
 - 代码变化导致旧记录失效时，不按旧答案误判。
 - 在 Codex 完整验证四种来源与 Review，再于 Claude Code 做一次实际流程验证。
 
-## v0.1 不包含
-
-WebUI、独立 LLM Provider、MCP Server、数据库、FSRS、自动提醒 hook、知识图谱、Anki 导出、质量评分平台和跨项目学习汇总。
